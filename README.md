@@ -2,6 +2,7 @@
 
 This module checks that an HTTP server is reachable and responding
 as expected.
+**UPDATE**: Source code has been modified to work with Python 3
 
 ## Description
 
